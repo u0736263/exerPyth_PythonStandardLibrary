@@ -35,3 +35,29 @@ There are two ways you can do this. I'll provide instructions for both methods b
 
 
 ### 2. Open in Google Colab Directly from GitHub Repository
+
+* From Google Drive + New - More - Google Colaboratory
+
+![image](https://github.com/user-attachments/assets/7efa8e84-6525-4bf2-a6e3-bf08b8c920fb)
+
+* A blank Google Colab notebook will open.
+* From the blank notebook go to File - Open notebook - GitHub - Paste the URL for the GitHub repository in the Enter a GitHub URL box - click outside the box after you paste the URL
+
+![image](https://github.com/user-attachments/assets/5ed25144-724e-45c5-9046-35e27c17b6fc)
+
+* Once you paste the URL in the box, any Jupyter Notebooks inside the repository main branch will appear in the list.
+* Click on the desired notebook.
+
+#### Save completed file back to GitHub repository
+
+If you opened the notebook in Google Colaboratory directly from GitHub, you can save the completed file directly there again.
+
+* Go to File - Save a copy in GitHub
+
+![image](https://github.com/user-attachments/assets/e80160c0-a7cd-4397-8cf0-f9e958c42dd8)
+
+* Update the name of the file by adding _complete at the end of the file name in the File path box and click OK
+* Your updated file should appear when you refresh your repository.
+* Submit the link to your GitHub repository in Canvas.
+
+![image](https://github.com/user-attachments/assets/0b235940-6ca5-4606-804e-5d1334a61276)
