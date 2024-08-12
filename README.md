@@ -29,5 +29,9 @@ There are two ways you can do this. I'll provide instructions for both methods b
 
 ![image](https://github.com/user-attachments/assets/1ee9ae5b-ecbb-46d7-938f-7cbc77bfea05)
 
+* In Google Drive, click the three dots for the notebook you want to open and select Open with and select Google Colaboratory
+
+![image](https://github.com/user-attachments/assets/00f4e8db-041e-48ea-84ac-473e2764c704)
+
 
 ### 2. Open in Google Colab Directly from GitHub Repository
