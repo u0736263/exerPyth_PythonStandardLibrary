@@ -56,6 +56,12 @@ If you opened the notebook in Google Colaboratory directly from GitHub, you can 
 
 ![image](https://github.com/user-attachments/assets/e80160c0-a7cd-4397-8cf0-f9e958c42dd8)
 
+## Complete the Assignment in Google Colaboratory
+
+## Save the completed file back to GitHub
+
+## Submit the link to your GitHub repository in Canvas
+
 * Update the name of the file by adding _complete at the end of the file name in the File path box and click OK
 * Your updated file should appear when you refresh your repository.
 * Submit the link to your GitHub repository in Canvas.
