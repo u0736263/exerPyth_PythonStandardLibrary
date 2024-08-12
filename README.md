@@ -1,12 +1,20 @@
 # The Python Standard Library
 
+Follow the steps below to complete this assignment.
+
+* Fork this repository
+* Open the Jupyter Notebook in Google Colaboratory
+* Complete the assignment in Google Colaboratory
+* Upload the completed assignment file to this GitHub repository
+* Submit the repository URL in Canvas
+
 ## Fork this repository
 
 Fork this repository by clicking the Fork button in the top-right corner of this page. This creates a copy of the repository in your GitHub account.
 
 ![image](https://github.com/user-attachments/assets/52b8b9b6-a3d8-43ad-92f5-51c61b75d370)
 
-## Open the Jupyter Notebook on Google Colab
+## Open the Jupyter Notebook on Google Colaboratory
 
 There are two ways you can do this. I'll provide instructions for both methods below.
 
