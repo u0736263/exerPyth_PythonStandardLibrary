@@ -11,7 +11,7 @@ Fork this repository by clicking the Fork button in the top-right corner of this
 There are two ways you can do this. I'll provide instructions for both methods below.
 
 1. Download the notebook to your computer, upload it to Google Drive, and open it in Google Colab from Google Drive.
-2. Open the Jupyter Notebook in Google Colab directly.
+2. Open the Jupyter Notebook in Google Colab directly from GitHub.
 
 ### 1. Upload to Google Drive
 
